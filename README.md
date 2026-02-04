@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Pasha Interior | Luxury Design Studio
 
-## Getting Started
+A premium, enterprise-grade digital showcase for **Pasha Interior**, a luxury architectural and interior design brand. This application is designed to exude exclusivity, confidence, and sophisticated minimalism, following design patterns similar to Apple and Samsung.
 
-First, run the development server:
+## ✨ Core Philosophy
+*   **Luxury Brand Identity**: This is not just a service provider website; it's a high-end brand presentation.
+*   **Dominant Presence**: Elegant, immersive experience with a focus on visual excellence.
+*   **Minimalist Sophistication**: Clean layouts, premium typography (Outfit/Inter), and smooth micro-animations.
 
+## 🚀 Technology Stack
+*   **Framework**: [Next.js 15+](https://nextjs.org/) (App Router)
+*   **Styling**: [Tailwind CSS v4](https://tailwindcss.com/) (Modern design tokens/utilities)
+*   **Database**: [SQLite](https://www.sqlite.org/) (Form submissions & inquiries)
+*   **Data Strategy**: Centralized [JSON](file:///h:/PashaInterior/pasha-interior/data) files for global content management
+*   **Icons**: [Lucide React](https://lucide.dev/)
+*   **Animations**: [Framer Motion](https://www.framer.com/motion/)
+
+## 🏛️ Project Structure
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+├── app/                  # Next.js App Router (Studio & Public)
+│   ├── studio/           # Administrative Command Center
+│   └── (public)/         # Luxury Brand Showcase
+├── components/           # Reusable UI Architecture
+│   ├── admin/            # Custom Admin UX Components
+│   └── ui/               # Primary Design System Elements
+├── data/                 # Centralized Content Repository (JSON)
+├── lib/                  # Backend & Database Logic
+├── types/                # Strict TypeScript Definitions
+└── public/               # High-Resolution Brand Assets
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Administrative Features (Studio)
+The `/studio` command center provides advanced management for:
+*   **Inquiries & Consultations**: Real-time management of client requests.
+*   **Luxury Portfolio**: Rich text editing, architectural narratives, and service tagging.
+*   **Services Module**: Detailed feature sets and execution process management.
+*   **Testimonials**: Verified client narratives with project association.
+*   **Search & Pagination**: Fluid data navigation for large-scale operations.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ⚙️ Environment Configuration
+Create a `.env.local` based on your requirements:
+```env
+ADMIN_PANEL_URL="/studio"
+DEVELOPER_EMAIL="ahtesham2000@gmail.com"
+ADMIN_EMAIL="admin@pashainterior.com"
+DATABASE_PATH="contacts.db"
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚦 Getting Started
+1. **Initialize Dependencies**:
+    ```bash
+    npm install
+    ```
+2. **Execute Development Engine**:
+    ```bash
+    npm run dev
+    ```
+3. **Launch Production Construction**:
+    ```bash
+    npm run build
+    ```
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+**Design & Developed by Broadway Web Services**
