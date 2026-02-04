@@ -1,0 +1,56 @@
+[
+  {
+    "id": "res-001",
+    "title": "Residential Interior",
+    "slug": "residential-interior",
+    "shortDescription": "Bespoke living spaces tailored to your personal aesthetic.",
+    "description": "Our residential design service focuses on creating harmonious living environments that reflect your personality and lifestyle. From luxury apartments to grand ancestral homes, we bring architectural precision and artistic vision to every room.",
+    "icon": "Home",
+    "image": "/images/services/residential.png",
+    "featured": true,
+    "features": [
+      "Custom Furniture Design",
+      "Space Planning & Layout",
+      "Material & Finish Selection",
+      "Illumination Strategy"
+    ],
+    "process": [
+      "Consultation & Discovery",
+      "Conceptual Design",
+      "Design Development",
+      "Execution & Styling"
+    ]
+  },
+  {
+    "id": "com-001",
+    "title": "Commercial Spaces",
+    "slug": "commercial-spaces",
+    "shortDescription": "Elevated professional environments designed to inspire excellence.",
+    "description": "We transform offices and retail spaces into powerful brand statements. Our commercial services prioritize functionality, employee well-being, and a sophisticated aesthetic that commands respect.",
+    "icon": "Briefcase",
+    "image": "/images/services/commercial.png",
+    "featured": true,
+    "features": [
+      "Brand-Aligned Interiors",
+      "Ergonomic Workspace Layouts",
+      "Acoustic Solutions",
+      "Sustainable Material Selection"
+    ]
+  },
+  {
+    "id": "hos-001",
+    "title": "Hospitality Design",
+    "slug": "hospitality-design",
+    "shortDescription": "Creating unforgettable experiences for boutiques and luxury retail.",
+    "description": "For hotels, restaurants, and luxury boutiques, we create immersive environments that captivate guests. We focus on the intersection of grand aesthetics and operational efficiency.",
+    "icon": "Building",
+    "image": "/images/services/hospitality.png",
+    "featured": true,
+    "features": [
+      "Bespoke Guest Experiences",
+      "Atmospheric Lighting & Sound",
+      "High-Traffic Durability",
+      "Premium Material Sourcing"
+    ]
+  }
+]

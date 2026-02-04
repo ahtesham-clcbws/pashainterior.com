@@ -1,0 +1,22 @@
+[
+  {
+    "id": "test-001",
+    "name": "Arjun Malhotra",
+    "role": "CEO",
+    "company": "Malhotra Luxury Homes",
+    "rating": 5,
+    "text": "Pasha Interior & Construction transformed our vision into a reality that exceeded all expectations. Their engineering precision paired with an impeccable design sense is rare in the industry.",
+    "date": "2023-11-15",
+    "projectType": "Penthouse Renovation"
+  },
+  {
+    "id": "test-002",
+    "name": "Sarah Khan",
+    "role": "Director",
+    "company": "Creative Minds Studio",
+    "rating": 5,
+    "text": "The collaborative process with Pasha was seamless. They understood our brand identity perfectly and created a workspace that our team loves coming to every day.",
+    "date": "2023-08-20",
+    "projectType": "Corporate Office"
+  }
+]

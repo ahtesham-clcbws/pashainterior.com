@@ -1,0 +1,38 @@
+{
+  "company": {
+    "name": "Pasha Interior",
+    "shortName": "Pasha Interior",
+    "tagline": "Engineers & Interior Decorators",
+    "description": "Premium interior design studio in New Delhi. We are engineers and decorators dedicated to crafting sophisticated, architectural spaces.",
+    "founded": "2020",
+    "proprietor": "Haseen Pasha",
+    "philosophy": "We believe in the power of thoughtful design to transform spaces into experiences. Every project is a unique journey of discovery, creativity, and meticulous attention to detail."
+  },
+  "contact": {
+    "email": "info@pashainterior.com",
+    "secondaryEmail": "pashainterior.co@gmail.com",
+    "phone": "+91 9990478786",
+    "address": {
+      "street": "H. No. C-1/31, Jasola Village Extn., Near Pocket-11 Gate 2",
+      "city": "Jasola",
+      "state": "New Delhi",
+      "country": "India",
+      "postalCode": "110025"
+    }
+  },
+  "social": {
+    "instagram": "https://instagram.com/pashainterior",
+    "facebook": "https://facebook.com/pashainterior",
+    "linkedin": "https://linkedin.com/company/pashainterior",
+    "twitter": "https://twitter.com/pashainterior"
+  },
+  "maps": {
+    "iframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14018.6750796342!2d77.2764951!3d28.5496466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3c41031a0e1%3A0x633d7482f6f3640b!2sJasola%20Village%2C%20Jasola%2C%20New%20Delhi%2C%20Delhi%20110025!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+  },
+  "seo": {
+    "title": "Pasha Interior & Construction | Luxury Interior Designers in Delhi",
+    "description": "Engineers, Interior Decorators & Consultants. Crafting timeless spaces with architectural precision in Jasola, New Delhi.",
+    "keywords": ["interior design delhi", "construction jasola", "luxury interiors delhi", "engineers and decorators delhi", "Pasha Interior Construction"],
+    "ogImage": "/images/og-image.jpg"
+  }
+}

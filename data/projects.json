@@ -1,0 +1,293 @@
+[
+  {
+    "id": "prj-004",
+    "title": "Costa Coffee",
+    "slug": "costa-coffee-gurugram",
+    "category": "F&B",
+    "location": "Gurugram",
+    "year": "2022",
+    "coverImage": "/assets/projects/2022-costa_coffee-gurugram/main.jpeg",
+    "images": [
+      "/assets/projects/2022-costa_coffee-gurugram/main.jpeg"
+    ],
+    "description": "A modern cafe interior designed for comfort and efficiency, blending the brand's iconic warmth with contemporary industrial elements.",
+    "featured": false,
+    "services": [
+      "Interior Fit-out",
+      "Furniture"
+    ],
+    "area": "1,200 sq ft",
+    "galleryImages": [
+      "/assets/projects/2022-costa_coffee-gurugram/gallery (1).jpeg",
+      "/assets/projects/2022-costa_coffee-gurugram/gallery (2).jpeg",
+      "/assets/projects/2022-costa_coffee-gurugram/gallery (3).jpeg",
+      "/assets/projects/2022-costa_coffee-gurugram/gallery (4).jpeg",
+      "/assets/projects/2022-costa_coffee-gurugram/gallery (5).jpeg",
+      "/assets/projects/2022-costa_coffee-gurugram/gallery (6).jpeg",
+      "/assets/projects/2022-costa_coffee-gurugram/gallery (7).jpeg",
+      "/assets/projects/2022-costa_coffee-gurugram/gallery (8).jpeg",
+      "/assets/projects/2022-costa_coffee-gurugram/gallery (9).jpeg"
+    ],
+    "sliderImages": [
+      "/assets/projects/2022-costa_coffee-gurugram/slider (1).jpeg",
+      "/assets/projects/2022-costa_coffee-gurugram/slider (2).jpeg",
+      "/assets/projects/2022-costa_coffee-gurugram/slider (3).jpeg",
+      "/assets/projects/2022-costa_coffee-gurugram/slider (4).jpeg"
+    ]
+  },
+  {
+    "id": "prj-005",
+    "title": "KFC Srinagar",
+    "slug": "kfc-srinagar-jank",
+    "category": "F&B",
+    "location": "Srinagar, J&K",
+    "year": "2022",
+    "coverImage": "/assets/projects/2022-kfc-jammu_and_kashmir/main.jpeg",
+    "images": [
+      "/assets/projects/2022-kfc-jammu_and_kashmir/main.jpeg"
+    ],
+    "description": "An inviting QSR outlet designed to handle high footfall while maintaining a vibrant and energetic atmosphere aligned with global brand standards.",
+    "featured": false,
+    "services": [
+      "Turnkey Interior",
+      "MEP Services"
+    ],
+    "area": "2,500 sq ft",
+    "galleryImages": [],
+    "sliderImages": [
+      "/assets/projects/2022-kfc-jammu_and_kashmir/slider (1).jpeg",
+      "/assets/projects/2022-kfc-jammu_and_kashmir/slider (2).jpeg",
+      "/assets/projects/2022-kfc-jammu_and_kashmir/slider (3).jpeg",
+      "/assets/projects/2022-kfc-jammu_and_kashmir/slider (4).jpeg",
+      "/assets/projects/2022-kfc-jammu_and_kashmir/slider (5).jpeg",
+      "/assets/projects/2022-kfc-jammu_and_kashmir/slider (6).jpeg",
+      "/assets/projects/2022-kfc-jammu_and_kashmir/slider (7).jpeg",
+      "/assets/projects/2022-kfc-jammu_and_kashmir/slider (8).jpeg"
+    ]
+  },
+  {
+    "id": "prj-006",
+    "title": "KFC Sector-95",
+    "slug": "kfc-sector-95-gurugram",
+    "category": "F&B",
+    "location": "Sector-95, Gurugram",
+    "year": "2022",
+    "coverImage": "/assets/projects/2022-kfc-sec_95-gurugram/main.jpeg",
+    "images": [
+      "/assets/projects/2022-kfc-sec_95-gurugram/main.jpeg"
+    ],
+    "description": "Compact and efficient QSR layout optimizing space for operations and customer dining in a busy commercial sector.",
+    "featured": false,
+    "services": [
+      "Interior Design",
+      "Civil Works"
+    ],
+    "area": "1,800 sq ft",
+    "galleryImages": [
+      "/assets/projects/2022-kfc-sec_95-gurugram/gallery (1).jpeg",
+      "/assets/projects/2022-kfc-sec_95-gurugram/gallery (2).jpeg",
+      "/assets/projects/2022-kfc-sec_95-gurugram/gallery (3).jpeg",
+      "/assets/projects/2022-kfc-sec_95-gurugram/gallery (4).jpeg",
+      "/assets/projects/2022-kfc-sec_95-gurugram/gallery (5).jpeg",
+      "/assets/projects/2022-kfc-sec_95-gurugram/gallery (6).jpeg",
+      "/assets/projects/2022-kfc-sec_95-gurugram/gallery (7).jpeg",
+      "/assets/projects/2022-kfc-sec_95-gurugram/gallery (8).jpeg",
+      "/assets/projects/2022-kfc-sec_95-gurugram/gallery (9).jpeg",
+      "/assets/projects/2022-kfc-sec_95-gurugram/gallery (10).jpeg"
+    ],
+    "sliderImages": [
+      "/assets/projects/2022-kfc-sec_95-gurugram/slider (1).jpeg",
+      "/assets/projects/2022-kfc-sec_95-gurugram/slider (2).jpeg",
+      "/assets/projects/2022-kfc-sec_95-gurugram/slider (3).jpeg"
+    ]
+  },
+  {
+    "id": "prj-007",
+    "title": "Pizza Hut Sector-99",
+    "slug": "pizza-hut-sector-99-gurugram",
+    "category": "F&B",
+    "location": "Sector-99, Gurugram",
+    "year": "2022",
+    "coverImage": "/assets/projects/2022-pizza_hut-sec_99-gurugram/main.jpeg",
+    "images": [
+      "/assets/projects/2022-pizza_hut-sec_99-gurugram/main.jpeg"
+    ],
+    "description": "A cozy and family-friendly dining environment featuring warm lighting and durable, high-quality finishes.",
+    "featured": false,
+    "services": [
+      "Interior Fit-out",
+      "Lighting"
+    ],
+    "area": "1,500 sq ft",
+    "galleryImages": [
+      "/assets/projects/2022-pizza_hut-sec_99-gurugram/gallery (1).jpeg",
+      "/assets/projects/2022-pizza_hut-sec_99-gurugram/gallery (2).jpeg",
+      "/assets/projects/2022-pizza_hut-sec_99-gurugram/gallery (3).jpeg",
+      "/assets/projects/2022-pizza_hut-sec_99-gurugram/gallery (4).jpeg",
+      "/assets/projects/2022-pizza_hut-sec_99-gurugram/gallery (5).jpeg",
+      "/assets/projects/2022-pizza_hut-sec_99-gurugram/gallery (6).jpeg",
+      "/assets/projects/2022-pizza_hut-sec_99-gurugram/gallery (7).jpeg"
+    ],
+    "sliderImages": []
+  },
+  {
+    "id": "prj-008",
+    "title": "KFC Sector-46",
+    "slug": "kfc-sector-46-gurugram",
+    "category": "F&B",
+    "location": "Huda Market, Gurugram",
+    "year": "2023",
+    "coverImage": "/assets/projects/2023-kfc-sec_46-huda_market-gurugram/main.jpeg",
+    "images": [
+      "/assets/projects/2023-kfc-sec_46-huda_market-gurugram/main.jpeg"
+    ],
+    "description": "Strategic interior execution for a high-traffic market location, focusing on durability and brand visibility.",
+    "featured": false,
+    "services": [
+      "General Contracting",
+      "Millwork"
+    ],
+    "area": "2,000 sq ft",
+    "galleryImages": [
+      "/assets/projects/2023-kfc-sec_46-huda_market-gurugram/gallery (1).jpeg",
+      "/assets/projects/2023-kfc-sec_46-huda_market-gurugram/gallery (2).jpeg",
+      "/assets/projects/2023-kfc-sec_46-huda_market-gurugram/gallery (3).jpeg",
+      "/assets/projects/2023-kfc-sec_46-huda_market-gurugram/gallery (4).jpeg",
+      "/assets/projects/2023-kfc-sec_46-huda_market-gurugram/gallery (5).jpeg",
+      "/assets/projects/2023-kfc-sec_46-huda_market-gurugram/gallery (6).jpeg",
+      "/assets/projects/2023-kfc-sec_46-huda_market-gurugram/gallery (7).jpeg",
+      "/assets/projects/2023-kfc-sec_46-huda_market-gurugram/gallery (8).jpeg"
+    ],
+    "sliderImages": []
+  },
+  {
+    "id": "prj-009",
+    "title": "Costa Coffee Expo Plaza",
+    "slug": "costa-coffee-noida-expo",
+    "category": "F&B",
+    "location": "India Expo Plaza, Noida",
+    "year": "2024",
+    "coverImage": "/assets/projects/2024-costa_coffee-india_expo_plaza-noida/main.jpeg",
+    "images": [
+      "/assets/projects/2024-costa_coffee-india_expo_plaza-noida/main.jpeg"
+    ],
+    "description": "Premium cafe outlet designed for exhibition crowds, featuring quick-service counters and comfortable lounge seating.",
+    "featured": true,
+    "services": [
+      "Turnkey Interior",
+      "Furniture"
+    ],
+    "area": "1,400 sq ft",
+    "galleryImages": [],
+    "sliderImages": [
+      "/assets/projects/2024-costa_coffee-india_expo_plaza-noida/slider (1).jpeg",
+      "/assets/projects/2024-costa_coffee-india_expo_plaza-noida/slider (2).jpeg",
+      "/assets/projects/2024-costa_coffee-india_expo_plaza-noida/slider (3).jpeg",
+      "/assets/projects/2024-costa_coffee-india_expo_plaza-noida/slider (4).jpeg",
+      "/assets/projects/2024-costa_coffee-india_expo_plaza-noida/slider (5).jpeg",
+      "/assets/projects/2024-costa_coffee-india_expo_plaza-noida/slider (6).jpeg",
+      "/assets/projects/2024-costa_coffee-india_expo_plaza-noida/slider (7).jpeg"
+    ]
+  },
+  {
+    "id": "prj-010",
+    "title": "KFC Expo Plaza",
+    "slug": "kfc-noida-expo",
+    "category": "F&B",
+    "location": "India Expo Plaza, Noida",
+    "year": "2024",
+    "coverImage": "/assets/projects/2024-kfc-india_expo_plaza-noida/main.jpeg",
+    "images": [
+      "/assets/projects/2024-kfc-india_expo_plaza-noida/main.jpeg"
+    ],
+    "description": "High-capacity outlet serving the Expo Plaza, designed for rapid service flow and easy maintenance.",
+    "featured": false,
+    "services": [
+      "Interior Fit-out",
+      "MEP"
+    ],
+    "area": "2,200 sq ft",
+    "galleryImages": [],
+    "sliderImages": [
+      "/assets/projects/2024-kfc-india_expo_plaza-noida/slider (1).jpeg",
+      "/assets/projects/2024-kfc-india_expo_plaza-noida/slider (2).jpeg",
+      "/assets/projects/2024-kfc-india_expo_plaza-noida/slider (3).jpeg",
+      "/assets/projects/2024-kfc-india_expo_plaza-noida/slider (4).jpeg"
+    ]
+  },
+  {
+    "id": "prj-011",
+    "title": "KFC Sector-150",
+    "slug": "kfc-sector-150-noida",
+    "category": "F&B",
+    "location": "Sector-150, Noida",
+    "year": "2024",
+    "coverImage": "/assets/projects/2024-kfc-sec_150-noida/main.jpeg",
+    "images": [
+      "/assets/projects/2024-kfc-sec_150-noida/main.jpeg"
+    ],
+    "description": "Modern QSR establishment in a developing sector, setting the standard for commercial interiors in the area.",
+    "featured": false,
+    "services": [
+      "Interior Design",
+      "Execution"
+    ],
+    "area": "1,900 sq ft",
+    "galleryImages": [],
+    "sliderImages": []
+  },
+  {
+    "id": "prj-012",
+    "title": "Pizza Hut Sector-135",
+    "slug": "pizza-hut-sector-135-noida",
+    "category": "F&B",
+    "location": "Sector-135, Noida",
+    "year": "2024",
+    "coverImage": "/assets/projects/2024-pizza_hut-sec_135-noida/main.jpeg",
+    "images": [
+      "/assets/projects/2024-pizza_hut-sec_135-noida/main.jpeg"
+    ],
+    "description": "Contemporary dining space with a focus on ambient lighting and acoustic comfort for corporate diners.",
+    "featured": false,
+    "services": [
+      "Turnkey Projects",
+      "Lighting"
+    ],
+    "area": "1,600 sq ft",
+    "galleryImages": [
+      "/assets/projects/2024-pizza_hut-sec_135-noida/gallery (1).jpeg",
+      "/assets/projects/2024-pizza_hut-sec_135-noida/gallery (2).jpeg",
+      "/assets/projects/2024-pizza_hut-sec_135-noida/gallery (3).jpeg",
+      "/assets/projects/2024-pizza_hut-sec_135-noida/gallery (4).jpeg",
+      "/assets/projects/2024-pizza_hut-sec_135-noida/gallery (5).jpeg",
+      "/assets/projects/2024-pizza_hut-sec_135-noida/gallery (6).jpeg",
+      "/assets/projects/2024-pizza_hut-sec_135-noida/gallery (7).jpeg"
+    ],
+    "sliderImages": []
+  },
+  {
+    "id": "prj-013",
+    "title": "Pizza Hut Sector-150",
+    "slug": "pizza-hut-sector-150-noida",
+    "category": "F&B",
+    "location": "Sector-150, Noida",
+    "year": "2024",
+    "coverImage": "/assets/projects/2024-pizza_hut-sec_150-noida/main.jpeg",
+    "images": [
+      "/assets/projects/2024-pizza_hut-sec_150-noida/main.jpeg"
+    ],
+    "description": "A vibrantly designed outlet catering to the residential hub of Sector 150, featuring custom joinery and brand graphics.",
+    "featured": false,
+    "services": [
+      "Interior Fit-out",
+      "Furniture"
+    ],
+    "area": "1,700 sq ft",
+    "galleryImages": [],
+    "sliderImages": [
+      "/assets/projects/2024-pizza_hut-sec_150-noida/slider (1).jpeg",
+      "/assets/projects/2024-pizza_hut-sec_150-noida/slider (2).jpeg",
+      "/assets/projects/2024-pizza_hut-sec_150-noida/slider (3).jpeg"
+    ]
+  }
+]
