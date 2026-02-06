@@ -21,8 +21,8 @@ export const metadata: Metadata = {
   description: "Pasha Interior crafts timeless, sophisticated spaces with architectural precision. New Delhi's premier luxury design studio.",
   keywords: ["luxury interior design", "Delhi interiors", "premium residential design", "commercial interior design", "Pasha Interior"],
   icons: {
-    icon: "/favicon.svg",
-    apple: "/favicon.svg",
+    icon: "/favicon.ico",
+    apple: "/favicon.ico",
   },
   openGraph: {
     title: "Pasha Interior | Luxury Engineering & Design",

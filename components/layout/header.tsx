@@ -40,7 +40,7 @@ export function Header() {
     >
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <Link href="/" className="relative z-50">
-          <img src="/logo.svg" alt="Pasha Interior" className="h-8 md:h-10 w-auto" />
+          <img src="/logo.png" alt="Pasha Interior" className="h-8 md:h-10 w-auto" />
         </Link>
 
         {/* Desktop Navigation */}

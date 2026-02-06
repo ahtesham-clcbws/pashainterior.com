@@ -15,7 +15,7 @@ export function Footer() {
           {/* Brand Section */}
           <div className="space-y-6">
             <Link href="/">
-              <img src="/logo.svg" alt="Pasha Interior" className="h-8 md:h-10 w-auto" />
+              <img src="/logo.png" alt="Pasha Interior" className="h-8 md:h-10 w-auto" />
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed max-w-xs">
               {company.description}
